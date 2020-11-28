@@ -1,1 +1,1 @@
-# JS-DataStructures
+# JS-DataStructures(JS Practice)
